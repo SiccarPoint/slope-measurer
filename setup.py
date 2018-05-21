@@ -1,6 +1,6 @@
 from setuptools import setup
 
-setup(name='slope-measurer',
+setup(name='slopemeasurer',
       version='0.1',
       description='Helper utility to find and measure surface interfaces in a LL CelllabCTS model',
       url='https://github.com/SiccarPoint/slope-measurer',

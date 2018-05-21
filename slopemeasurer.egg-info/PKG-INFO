@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: slopemeasurer
+Version: 0.1
+Summary: Helper utility to find and measure surface interfaces in a LL CelllabCTS model
+Home-page: https://github.com/SiccarPoint/slope-measurer
+Author: Dan Hobley
+Author-email: HobleyD@cardiff.ac.uk
+License: MIT
+Description-Content-Type: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN

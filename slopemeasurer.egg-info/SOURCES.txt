@@ -1,0 +1,9 @@
+README.md
+setup.py
+slopemeasurer/__init__.py
+slopemeasurer/slope_measurer.py
+slopemeasurer.egg-info/PKG-INFO
+slopemeasurer.egg-info/SOURCES.txt
+slopemeasurer.egg-info/dependency_links.txt
+slopemeasurer.egg-info/not-zip-safe
+slopemeasurer.egg-info/top_level.txt
